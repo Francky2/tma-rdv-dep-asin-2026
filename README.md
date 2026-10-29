@@ -141,3 +141,5 @@ Les requêtes complètes sont documentées dans le fichier `requetes.sql`.
    - Règle enfreinte : « NPI, composé d’exactement 10 chiffres ».
    - 2 cas identifiés (`id: 459` avec 11 chiffres, `id: 642` avec 12 chiffres).
    - **Correction appliquée** : Contrôle regex strict dans `validerNpi()`.
+#   t m a - r d v - d e p - a s i n - 2 0 2 6  
+ 
